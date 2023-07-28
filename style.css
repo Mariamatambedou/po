@@ -1,0 +1,51 @@
+.im {
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+
+}
+
+
+.logo
+{
+  width: 20px;
+  height: 20px;
+  margin : 20px; 
+}
+
+
+.menu{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top:-40px;
+}
+
+.lo
+{ 
+  
+  margin-top: 250px;
+  margin-left: 290px;
+
+}
+a {
+  text-decoration: none;
+}
+.me{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top:100px;
+}
+.b{
+  background-image: url("sonatel.jpg");
+  width: 1100px;
+  height: 500px;
+  margin-left: 80px;
+}
+.cola{
+  color: green;
+}
+.co{
+  color: white;
+}
